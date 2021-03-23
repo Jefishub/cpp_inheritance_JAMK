@@ -199,7 +199,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [stars-url]: https://github.com/Jefishub/cpp_inheritance_JAMK/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Jefishub/cpp_inheritance_JAMK.svg?style=for-the-badge
 [issues-url]: https://github.com/Jefishub/cpp_inheritance_JAMK/issues
-[license-shield]: https://img.shields.io/github/licence/Jefishub/cpp_inheritance_JAMK.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Jefishub/cpp_inheritance_JAMK.svg?style=for-the-badge
 [license-url]: https://github.com/Jefishub/cpp_inheritance_JAMK/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jeremanni
