@@ -113,7 +113,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Inbot/inbotbrain.git
    ```
 3. Install NPM packages
    ```sh
@@ -138,7 +138,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Inbot/inbotbrain/issues) for a list of proposed features (and known issues).
 
 
 
@@ -167,7 +167,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Inbot/inbotbrain](https://github.com/Inbot/inbotbrain)
 
 
 
@@ -191,16 +191,16 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Jefishub/cpp_inheritance_JAMK.svg?style=for-the-badge
-[contributors-url]: https://github.com/Jefishub/cpp_inheritance_JAMK/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Jefishub/cpp_inheritance_JAMK.svg?style=for-the-badge
-[forks-url]: https://github.com/Jefishub/cpp_inheritance_JAMK/network/members
-[stars-shield]: https://img.shields.io/github/stars/Jefishub/cpp_inheritance_JAMK.svg?style=for-the-badge
-[stars-url]: https://github.com/Jefishub/cpp_inheritance_JAMK/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Jefishub/cpp_inheritance_JAMK.svg?style=for-the-badge
-[issues-url]: https://github.com/Jefishub/cpp_inheritance_JAMK/issues
-[license-shield]: https://img.shields.io/github/license/Jefishub/cpp_inheritance_JAMK.svg?style=for-the-badge
-[license-url]: https://github.com/Jefishub/cpp_inheritance_JAMK/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Inbot/inbotbrain.svg?style=for-the-badge
+[contributors-url]: https://github.com/Inbot/inbotbrain/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Inbot/inbotbrain.svg?style=for-the-badge
+[forks-url]: https://github.com/Inbot/inbotbrain/network/members
+[stars-shield]: https://img.shields.io/github/stars/Inbot/inbotbrain.svg?style=for-the-badge
+[stars-url]: https://github.com/Inbot/inbotbrain/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Inbot/inbotbrain.svg?style=for-the-badge
+[issues-url]: https://github.com/Inbot/inbotbrain/issues
+[license-shield]: https://img.shields.io/github/license/Inbot/inbotbrain.svg?style=for-the-badge
+[license-url]: https://github.com/Inbot/inbotbrain/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/jeremanni
+[linkedin-url]: https://www.linkedin.com/company/inbot/
 [product-screenshot]: images/screenshot.png
